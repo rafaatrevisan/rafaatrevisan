@@ -24,7 +24,6 @@ visitas técnicas, palestras e disciplinas voltadas à tecnologia.
 ## 📊 GitHub Stats:
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaatrevisan&layout=compact&theme=dracula)
-![Trevisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaatrevisan&show_icons=true&theme=dracula)
 
 
 ## 🌐 Contatos e Redes Sociais:
