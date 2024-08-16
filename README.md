@@ -3,10 +3,11 @@
 
 Tenho 18 anos e atualmente estou me formando em Análise e Desenvolvimento de Sistemas!
 
-Adoro tudo que envolva tecnologia e desde bem novo sempre estive inserido no mundo digital, seja por meio dos videogames (algo que sempre amei), redes socias ou até mesmo aprendendo coisas novas com tutorias na internet, como Photoshop. Foi pensando nisso que decidi seguir na área de programação, pois sempre tive o interesse em saber como eram feitos e, principalmente, em produzir sites e apps.
+Desde jovem, sempre fui apaixonado por tecnologia, o que me levou a mergulhar no mundo digital através de videogames, redes sociais e aprendizado autodidata. Essa paixão me direcionou à programação, onde hoje me dedico ao desenvolvimento web com foco em PHP, MySQL e JavaScript, tendo utilizado os frameworks Zend Framework 2 e jQuery.
 
-Sobre minha formação, no final de 2020 escolhi o curso técnico de Desenvolvimento de Sistemas AMS da ETEC integrado ao ensino médio, que contou com mentoria especial da IBM. Esse programa de parceria da IBM com o Centro Paula Souza, chamdo P-Tech, desenvolve competências técnicas e profissionais a partir de projetos, mentorias,
-visitas técnicas, palestras e disciplinas voltadas à tecnologia.
+Sobre minha formação, no final de 2020 escolhi o curso técnico de Desenvolvimento de Sistemas AMS da ETEC integrado ao ensino médio, que contou com mentoria especial da IBM. Esse programa de parceria da IBM com o Centro Paula Souza, chamdo P-Tech, desenvolve competências técnicas e profissionais a partir de projetos, mentorias, visitas técnicas, palestras e disciplinas voltadas à tecnologia e com o objetivo de promover a evolução técnica e interpessoal.
+
+Tenho experiência em desenvolvimento ágil com a metodologia Scrum, onde contribuí para a criação de novas funcionalidades, investigação e resolução de bugs novos e antigos, além de realizar a resolução de tickets, documentação de sistemas e entrega de features. Além disso, desenvolvi e possuo habilidades interpessoais como facilidade de aprendizado, comunicação assertiva, trabalho em equipe, gestão de tempo e resolução de problemas. Sou impulsionado por um compromisso constante de aperfeiçoamento e desenvolvimento contínuo em todas as áreas do meu trabalho e da vida.
 
 
 ## 💻 Habilidades e Tecnologias:
