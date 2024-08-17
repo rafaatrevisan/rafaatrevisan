@@ -3,7 +3,7 @@
 
 Tenho 18 anos e atualmente estou me formando em Análise e Desenvolvimento de Sistemas!
 
-Desde jovem, sempre fui apaixonado por tecnologia, o que me levou a mergulhar no mundo digital através de videogames, redes sociais e aprendizado autodidata. Essa paixão me direcionou à programação, onde hoje me dedico ao desenvolvimento web com foco em PHP, MySQL e JavaScript, tendo utilizado os frameworks Zend Framework 2 e jQuery.
+Desde jovem, sempre fui apaixonado por tecnologia, o que me levou a mergulhar no mundo digital através de videogames, redes sociais e aprendizado autodidata. Essa paixão me direcionou à programação, onde hoje me dedico ao desenvolvimento web com foco em PHP, MySQL e JavaScript, tendo utilizado os frameworks Bootstrap, jQuery e Zend Framework 2.
 
 Sobre minha formação, no final de 2020 escolhi o curso técnico de Desenvolvimento de Sistemas AMS da ETEC integrado ao ensino médio, que contou com mentoria especial da IBM. Esse programa de parceria da IBM com o Centro Paula Souza, chamdo P-Tech, desenvolve competências técnicas e profissionais a partir de projetos, mentorias, visitas técnicas, palestras e disciplinas voltadas à tecnologia e com o objetivo de promover a evolução técnica e interpessoal.
 
