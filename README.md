@@ -30,9 +30,7 @@ Tenho experiência em desenvolvimento ágil com a metodologia Scrum, onde contri
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaatrevisan&layout=compact&theme=dracula)
 
 
-## 🌐 Contatos e Redes Sociais:
+## 🌐 Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelltrevisan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaatrevisann@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaa.trevisan/)
-
